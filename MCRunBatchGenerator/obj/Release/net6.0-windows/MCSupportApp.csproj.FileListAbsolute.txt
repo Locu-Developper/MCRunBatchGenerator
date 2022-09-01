@@ -1,0 +1,17 @@
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\MCSupportApp.exe
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\MCSupportApp.deps.json
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\MCSupportApp.runtimeconfig.json
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\MCSupportApp.dll
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\MCSupportApp.pdb
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.csproj.AssemblyReference.cache
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.Form1.resources
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.csproj.GenerateResource.cache
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.AssemblyInfoInputs.cache
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.AssemblyInfo.cs
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.csproj.CoreCompileInputs.cache
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.dll
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\refint\MCSupportApp.dll
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.pdb
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\MCSupportApp.genruntimeconfig.cache
+E:\Programming\C#\MCSupportApp\MCSupportApp\obj\Release\net6.0-windows\ref\MCSupportApp.dll
