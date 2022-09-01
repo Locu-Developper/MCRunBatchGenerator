@@ -1,0 +1,5 @@
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\publish\MCSupportApp.exe
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\publish\MCSupportApp.dll
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\publish\MCSupportApp.deps.json
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\publish\MCSupportApp.runtimeconfig.json
+E:\Programming\C#\MCSupportApp\MCSupportApp\bin\Release\net6.0-windows\publish\MCSupportApp.pdb
