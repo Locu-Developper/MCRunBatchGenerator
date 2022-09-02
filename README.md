@@ -15,25 +15,24 @@
 <h3>制作経緯</h3>
 <p>マイクラのサーバー立てる時、毎回バッチファイルどんなんだっけって忘れるて、調べるのがめんどくさかったから！<br></p>
 
-[English Readme]
+<strong>-----------------------------------------------------------------------------------------------------------------------------------</strong><br>
+<strong>[English Readme]</strong>
+<h3>Overview</h3>
+This software is designed to help you</br></br>
 
-Overview
-This software is designed to help you
-
-This software can be used in cases like this: "It's a hassle to create a startup bat file when setting up a Minecraft server.
+You may be thinking, "It's a hassle to create a bat file to start Minecraft when setting up a server."</br></br>
 
 This software can be used in such cases.
-Installation & Usage
-It is very simple to use. 1.
 
-Download the latest version of MCRunBatchGenerator_1-0-0.exe from release. 2.
+<h3>Installation & Usage</h3>
+It is very simple to use. </br></br>
+<p>1.Download the latest version of MCRunBatchGenerator_1-0-0.exe from release. </p>
+<p>2. after downloading, just double-click it and launch it!</p>
 
-2. after downloading, just double-click it and launch it!
 
-
-If you want to know more, refer to our YouTube video!
+<br>If you want to know more, refer to our YouTube video!<br>
 ▶ Video version intensive (sorry)
-How it was made
-Whenever I set up a Mycla server, I forget what kind of batch file it is, and it was a pain in the ass to look it up!
+<h3>How it was made</h3>
+<p>Whenever I set up a Mycla server, I forget what kind of batch file it is, and it was a pain in the ass to look it up!<br></p>
 
 ※The English readme is translated by Deepl Translations.
